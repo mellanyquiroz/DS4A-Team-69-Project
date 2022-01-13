@@ -1,0 +1,361 @@
+County,Rates,Counts,Year
+Alameda,3.82,68.0,2015
+Alpine,0.0,0.0,2015
+Amador,3.75,2.0,2015
+Butte,7.48,18.0,2015
+Calaveras,17.97,9.0,2015
+California,4.79,1992.0,2015
+Colusa,0.0,0.0,2015
+Contra Costa,4.19,49.0,2015
+Del Norte,10.21,3.0,2015
+El Dorado,4.04,8.0,2015
+Fresno,6.8,62.0,2015
+Glenn,2.59,1.0,2015
+Humboldt,18.05,26.0,2015
+Imperial,12.66,20.0,2015
+Inyo,0.0,0.0,2015
+Kern,8.6,75.0,2015
+Kings,3.42,5.0,2015
+Lake,26.92,19.0,2015
+Lassen,10.51,4.0,2015
+Los Angeles,2.65,283.0,2015
+Madera,5.71,10.0,2015
+Marin,1.5,3.0,2015
+Mariposa,4.56,1.0,2015
+Mendocino,15.05,12.0,2015
+Merced,8.35,20.0,2015
+Modoc,7.16,1.0,2015
+Mono,0.0,0.0,2015
+Monterey,3.23,14.0,2015
+Napa,5.87,8.0,2015
+Nevada,4.06,4.0,2015
+Orange,7.39,251.0,2015
+Placer,3.94,15.0,2015
+Plumas,31.3,4.0,2015
+Riverside,5.55,135.0,2015
+Sacramento,2.44,40.0,2015
+San Benito,5.23,3.0,2015
+San Bernardino,1.74,38.0,2015
+San Diego,6.94,248.0,2015
+San Francisco,9.56,95.0,2015
+San Joaquin,6.12,46.0,2015
+San Luis Obispo,9.85,28.0,2015
+San Mateo,2.97,25.0,2015
+Santa Barbara,7.7,34.0,2015
+Santa Clara,3.17,66.0,2015
+Santa Cruz,10.68,29.0,2015
+Shasta,8.97,15.0,2015
+Sierra,0.0,0.0,2015
+Siskiyou,17.31,8.0,2015
+Solano,4.68,20.0,2015
+Sonoma,6.79,37.0,2015
+Stanislaus,5.37,29.0,2015
+Sutter,0.0,0.0,2015
+Tehama,2.87,3.0,2015
+Trinity,6.95,2.0,2015
+Tulare,2.5,11.0,2015
+Tuolumne,27.68,15.0,2015
+Unknown,,0.0,2015
+Ventura,5.64,53.0,2015
+Yolo,6.47,13.0,2015
+Yuba,6.14,4.0,2015
+Alameda,2.81,51.0,2016
+Alpine,0.0,0.0,2016
+Amador,15.61,5.0,2016
+Butte,7.07,17.0,2016
+Calaveras,16.5,6.0,2016
+California,4.87,2039.0,2016
+Colusa,6.8,2.0,2016
+Contra Costa,4.38,53.0,2016
+Del Norte,11.01,3.0,2016
+El Dorado,6.15,9.0,2016
+Fresno,7.27,70.0,2016
+Glenn,3.39,1.0,2016
+Humboldt,22.35,33.0,2016
+Imperial,7.34,12.0,2016
+Inyo,22.91,3.0,2016
+Kern,5.99,54.0,2016
+Kings,3.98,6.0,2016
+Lake,12.42,10.0,2016
+Lassen,19.86,7.0,2016
+Los Angeles,3.21,353.0,2016
+Madera,6.48,11.0,2016
+Marin,6.34,14.0,2016
+Mariposa,2.22,1.0,2016
+Mendocino,17.34,17.0,2016
+Merced,9.82,23.0,2016
+Modoc,0.0,0.0,2016
+Mono,6.89,1.0,2016
+Monterey,2.42,12.0,2016
+Napa,1.64,2.0,2016
+Nevada,9.85,8.0,2016
+Orange,8.47,289.0,2016
+Placer,3.75,14.0,2016
+Plumas,0.0,0.0,2016
+Riverside,4.62,114.0,2016
+Sacramento,3.4,55.0,2016
+San Benito,3.85,2.0,2016
+San Bernardino,1.67,36.0,2016
+San Diego,7.1,253.0,2016
+San Francisco,9.2,94.0,2016
+San Joaquin,6.8,53.0,2016
+San Luis Obispo,6.96,21.0,2016
+San Mateo,2.54,21.0,2016
+Santa Barbara,7.38,32.0,2016
+Santa Clara,3.24,68.0,2016
+Santa Cruz,12.32,35.0,2016
+Shasta,8.64,17.0,2016
+Sierra,0.0,0.0,2016
+Siskiyou,21.98,10.0,2016
+Solano,3.3,15.0,2016
+Sonoma,4.83,25.0,2016
+Stanislaus,2.56,14.0,2016
+Sutter,4.36,4.0,2016
+Tehama,3.3,2.0,2016
+Trinity,13.4,2.0,2016
+Tulare,3.01,14.0,2016
+Tuolumne,11.34,7.0,2016
+Unknown,,0.0,2016
+Ventura,5.01,44.0,2016
+Yolo,4.29,9.0,2016
+Yuba,8.08,5.0,2016
+Alameda,2.03,37.0,2017
+Alpine,0.0,0.0,2017
+Amador,2.71,2.0,2017
+Butte,7.57,17.0,2017
+Calaveras,0.86,1.0,2017
+California,5.22,2194.0,2017
+Colusa,0.0,0.0,2017
+Contra Costa,4.35,52.0,2017
+Del Norte,12.56,4.0,2017
+El Dorado,2.38,5.0,2017
+Fresno,4.58,47.0,2017
+Glenn,0.0,0.0,2017
+Humboldt,21.03,28.0,2017
+Imperial,4.57,8.0,2017
+Inyo,3.19,1.0,2017
+Kern,8.45,75.0,2017
+Kings,4.52,6.0,2017
+Lake,17.02,13.0,2017
+Lassen,13.91,5.0,2017
+Los Angeles,4.05,447.0,2017
+Madera,3.75,6.0,2017
+Marin,6.59,15.0,2017
+Mariposa,5.51,1.0,2017
+Mendocino,19.34,17.0,2017
+Merced,4.67,13.0,2017
+Modoc,23.58,3.0,2017
+Mono,0.0,0.0,2017
+Monterey,1.65,7.0,2017
+Napa,3.15,4.0,2017
+Nevada,5.5,6.0,2017
+Orange,7.5,255.0,2017
+Placer,4.79,18.0,2017
+Plumas,2.0,1.0,2017
+Riverside,5.67,140.0,2017
+Sacramento,3.75,61.0,2017
+San Benito,9.47,6.0,2017
+San Bernardino,2.65,57.0,2017
+San Diego,7.81,284.0,2017
+San Francisco,9.62,99.0,2017
+San Joaquin,9.18,69.0,2017
+San Luis Obispo,7.77,21.0,2017
+San Mateo,4.75,40.0,2017
+Santa Barbara,7.48,32.0,2017
+Santa Clara,3.19,67.0,2017
+Santa Cruz,6.59,18.0,2017
+Shasta,14.06,24.0,2017
+Sierra,0.0,0.0,2017
+Siskiyou,9.97,4.0,2017
+Solano,2.46,10.0,2017
+Sonoma,5.99,30.0,2017
+Stanislaus,3.39,18.0,2017
+Sutter,2.05,2.0,2017
+Tehama,0.0,0.0,2017
+Trinity,4.34,1.0,2017
+Tulare,2.59,11.0,2017
+Tuolumne,9.47,5.0,2017
+Unknown,,0.0,2017
+Ventura,9.8,85.0,2017
+Yolo,3.19,7.0,2017
+Yuba,13.15,9.0,2017
+Alameda,3.1,56.0,2018
+Alpine,0.0,0.0,2018
+Amador,2.9,1.0,2018
+Butte,6.55,17.0,2018
+Calaveras,9.71,3.0,2018
+California,5.82,2428.0,2018
+Colusa,0.0,0.0,2018
+Contra Costa,6.82,82.0,2018
+Del Norte,0.0,0.0,2018
+El Dorado,4.14,7.0,2018
+Fresno,3.52,35.0,2018
+Glenn,4.71,1.0,2018
+Humboldt,11.17,16.0,2018
+Imperial,10.07,16.0,2018
+Inyo,17.77,3.0,2018
+Kern,10.46,92.0,2018
+Kings,2.76,4.0,2018
+Lake,22.7,21.0,2018
+Lassen,11.9,4.0,2018
+Los Angeles,4.57,497.0,2018
+Madera,3.98,6.0,2018
+Marin,3.46,8.0,2018
+Mariposa,0.0,0.0,2018
+Mendocino,13.7,14.0,2018
+Merced,7.3,20.0,2018
+Modoc,0.0,0.0,2018
+Mono,0.0,0.0,2018
+Monterey,1.73,8.0,2018
+Napa,3.97,7.0,2018
+Nevada,6.28,7.0,2018
+Orange,7.46,252.0,2018
+Placer,1.94,8.0,2018
+Plumas,18.11,2.0,2018
+Riverside,5.74,144.0,2018
+Sacramento,4.65,70.0,2018
+San Benito,3.22,2.0,2018
+San Bernardino,4.77,106.0,2018
+San Diego,7.39,268.0,2018
+San Francisco,15.01,147.0,2018
+San Joaquin,3.47,26.0,2018
+San Luis Obispo,4.29,13.0,2018
+San Mateo,4.83,39.0,2018
+Santa Barbara,7.09,33.0,2018
+Santa Clara,2.83,60.0,2018
+Santa Cruz,8.49,23.0,2018
+Shasta,5.43,10.0,2018
+Sierra,0.0,0.0,2018
+Siskiyou,3.62,2.0,2018
+Solano,4.02,19.0,2018
+Sonoma,9.23,43.0,2018
+Stanislaus,5.96,35.0,2018
+Sutter,8.72,8.0,2018
+Tehama,3.52,2.0,2018
+Trinity,7.47,2.0,2018
+Tulare,1.73,7.0,2018
+Tuolumne,2.52,1.0,2018
+Unknown,,77.0,2018
+Ventura,11.14,95.0,2018
+Yolo,2.21,5.0,2018
+Yuba,5.36,4.0,2018
+Alameda,5.75,103.0,2019
+Alpine,0.0,0.0,2019
+Amador,7.81,5.0,2019
+Butte,5.83,12.0,2019
+Calaveras,7.79,4.0,2019
+California,7.9,3244.0,2019
+Colusa,15.66,3.0,2019
+Contra Costa,7.86,91.0,2019
+Del Norte,4.67,1.0,2019
+El Dorado,5.8,10.0,2019
+Fresno,4.86,48.0,2019
+Glenn,3.31,1.0,2019
+Humboldt,19.05,24.0,2019
+Imperial,7.02,12.0,2019
+Inyo,14.47,2.0,2019
+Kern,12.79,117.0,2019
+Kings,1.06,2.0,2019
+Lake,32.46,23.0,2019
+Lassen,23.47,7.0,2019
+Los Angeles,6.7,707.0,2019
+Madera,8.33,13.0,2019
+Marin,9.27,22.0,2019
+Mariposa,23.4,4.0,2019
+Mendocino,21.12,18.0,2019
+Merced,7.74,20.0,2019
+Modoc,0.0,0.0,2019
+Mono,0.0,0.0,2019
+Monterey,4.46,20.0,2019
+Napa,2.29,3.0,2019
+Nevada,10.45,10.0,2019
+Orange,8.13,272.0,2019
+Placer,7.39,30.0,2019
+Plumas,11.77,2.0,2019
+Riverside,9.77,245.0,2019
+Sacramento,7.39,119.0,2019
+San Benito,7.98,5.0,2019
+San Bernardino,6.1,133.0,2019
+San Diego,8.92,314.0,2019
+San Francisco,26.96,279.0,2019
+San Joaquin,5.3,39.0,2019
+San Luis Obispo,8.12,21.0,2019
+San Mateo,7.87,65.0,2019
+Santa Barbara,5.54,26.0,2019
+Santa Clara,4.12,88.0,2019
+Santa Cruz,10.47,29.0,2019
+Shasta,11.11,18.0,2019
+Sierra,0.0,0.0,2019
+Siskiyou,5.98,2.0,2019
+Solano,7.32,34.0,2019
+Sonoma,13.09,65.0,2019
+Stanislaus,8.57,46.0,2019
+Sutter,2.5,3.0,2019
+Tehama,1.02,1.0,2019
+Trinity,19.65,2.0,2019
+Tulare,2.52,12.0,2019
+Tuolumne,1.6,2.0,2019
+Unknown,,4.0,2019
+Ventura,10.05,89.0,2019
+Yolo,3.91,9.0,2019
+Yuba,10.82,8.0,2019
+Alameda,8.09,144.0,2020
+Alpine,0.0,0.0,2020
+Amador,13.07,4.0,2020
+Butte,11.54,26.0,2020
+Calaveras,7.0,2.0,2020
+California,13.54,5502.0,2020
+Colusa,14.72,3.0,2020
+Contra Costa,12.61,144.0,2020
+Del Norte,9.01,3.0,2020
+El Dorado,11.72,22.0,2020
+Fresno,7.01,71.0,2020
+Glenn,14.87,3.0,2020
+Humboldt,18.34,24.0,2020
+Imperial,19.07,32.0,2020
+Inyo,22.03,3.0,2020
+Kern,24.32,222.0,2020
+Kings,7.36,10.0,2020
+Lake,26.11,17.0,2020
+Lassen,18.12,7.0,2020
+Los Angeles,12.4,1300.0,2020
+Madera,4.87,7.0,2020
+Marin,14.06,33.0,2020
+Mariposa,3.87,1.0,2020
+Mendocino,25.84,20.0,2020
+Merced,9.98,29.0,2020
+Modoc,0.0,0.0,2020
+Mono,0.0,0.0,2020
+Monterey,5.85,25.0,2020
+Napa,5.2,8.0,2020
+Nevada,34.09,30.0,2020
+Orange,15.45,503.0,2020
+Placer,12.22,45.0,2020
+Plumas,6.28,1.0,2020
+Riverside,16.05,400.0,2020
+Sacramento,6.81,107.0,2020
+San Benito,6.33,4.0,2020
+San Bernardino,12.95,288.0,2020
+San Diego,15.14,528.0,2020
+San Francisco,44.51,443.0,2020
+San Joaquin,11.1,85.0,2020
+San Luis Obispo,20.56,57.0,2020
+San Mateo,10.06,81.0,2020
+Santa Barbara,3.54,16.0,2020
+Santa Clara,7.1,143.0,2020
+Santa Cruz,9.65,26.0,2020
+Shasta,16.25,27.0,2020
+Sierra,0.0,0.0,2020
+Siskiyou,19.37,7.0,2020
+Solano,8.71,39.0,2020
+Sonoma,23.69,111.0,2020
+Stanislaus,13.5,74.0,2020
+Sutter,10.35,11.0,2020
+Tehama,3.38,2.0,2020
+Trinity,0.0,0.0,2020
+Tulare,8.22,39.0,2020
+Tuolumne,3.48,2.0,2020
+Unknown,,113.0,2020
+Ventura,17.07,141.0,2020
+Yolo,4.04,10.0,2020
+Yuba,10.64,9.0,2020
