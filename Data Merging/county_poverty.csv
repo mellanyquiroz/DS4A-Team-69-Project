@@ -1,0 +1,59 @@
+,County,County_group,CPM_rate,CPM_rate_margin_error,CPM_number,CPM_number_margin_error,official_rate,official_rate_margin_error
+0,Alameda,Alameda,14.1,0.7,229400,11200,8.2,0.6
+1,Alpine,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono/Tuolumne,13.2,2.7,23700,4800,10.9,2.2
+2,Amador,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono/Tuolumne,13.2,2.7,23700,4800,10.9,2.2
+3,Butte,Butte,17.9,2.0,39000,4200,16.7,2.0
+4,Calaveras,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono/Tuolumne,13.2,2.7,23700,4800,10.9,2.2
+5,Colusa,Colusa/Glenn/Tehama/Trinity,14.3,3.5,17800,4400,16.4,3.6
+6,Contra Costa,Contra Costa,13.8,1.2,156900,13300,8.2,0.8
+7,Del Norte,Del Norte/Lassen/Modoc/Plumas/Siskiyou,12.8,2.4,14900,2800,15.0,2.5
+8,El Dorado,El Dorado,10.4,2.0,19700,3800,8.3,1.8
+9,Fresno,Fresno,17.2,1.4,167600,13500,20.5,1.4
+10,Glenn,Colusa/Glenn/Tehama/Trinity,14.3,3.5,17800,4400,16.4,3.6
+11,Humboldt,Humboldt,19.5,3.1,25600,4100,20.5,3.8
+12,Imperial,Imperial,19.5,4.6,33400,7800,23.6,5.0
+13,Inyo,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono/Tuolumne,13.2,2.7,23700,4800,10.9,2.2
+14,Kern,Kern,16.7,1.8,145000,15500,19.3,1.7
+15,Kings,Kings,14.3,2.9,19700,4000,18.2,3.6
+16,Lake,Lake/Mendocino,15.8,2.7,23400,4000,16.4,3.1
+17,Lassen,Del Norte/Lassen/Modoc/Plumas/Siskiyou,12.8,2.4,14900,2800,15.0,2.5
+18,Los Angeles,Los Angeles,20.8,0.4,2061100,40500,13.5,0.3
+19,Madera,Madera,18.5,4.0,27500,6000,22.0,4.7
+20,Marin,Marin,15.8,2.5,39900,6300,6.9,1.4
+21,Mariposa,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono/Tuolumne,13.2,2.7,23700,4800,10.9,2.2
+22,Mendocino,Lake/Mendocino,15.8,2.7,23400,4000,16.4,3.1
+23,Merced,Merced,13.4,2.2,35800,5800,20.3,2.5
+24,Modoc,Del Norte/Lassen/Modoc/Plumas/Siskiyou,12.8,2.4,14900,2800,15.0,2.5
+25,Mono,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono/Tuolumne,13.2,2.7,23700,4800,10.9,2.2
+26,Monterey,Monterey/San Benito,17.3,1.6,83000,7700,11.6,1.4
+27,Napa,Napa,13.7,3.1,18600,4200,6.4,1.9
+28,Nevada,Nevada/Sierra,17.3,3.9,17500,4000,10.7,3.3
+29,Orange,Orange,19.1,0.8,595800,25100,9.9,0.6
+30,Placer,Placer,11.5,1.4,44500,5500,7.5,1.3
+31,Plumas,Del Norte/Lassen/Modoc/Plumas/Siskiyou,12.8,2.4,14900,2800,15.0,2.5
+32,Riverside,Riverside,16.1,0.9,388300,21100,12.1,0.7
+33,Sacramento,Sacramento,14.8,1.1,224500,16500,12.9,1.0
+34,San Benito,Monterey/San Benito,17.3,1.6,83000,7700,11.6,1.4
+35,San Bernardino,San Bernardino,15.3,1.0,323700,20400,14.5,0.9
+36,San Diego,San Diego,17.8,0.7,576600,24300,10.6,0.6
+37,San Francisco,San Francisco,17.0,1.3,146500,10700,9.0,0.9
+38,San Joaquin,San Joaquin,15.4,1.4,113000,10400,14.4,1.4
+39,San Luis Obispo,San Luis Obispo,15.5,2.1,40800,5400,10.8,1.9
+40,San Mateo,San Mateo,15.1,1.3,114700,9800,5.2,0.8
+41,Santa Barbara,Santa Barbara,20.7,2.2,87200,9100,11.8,1.5
+42,Santa Clara,Santa Clara,14.3,0.8,271500,15900,6.4,0.5
+43,Santa Cruz,Santa Cruz,17.0,2.6,44000,6800,11.0,2.3
+44,Shasta,Shasta,15.9,2.5,28000,4400,14.6,2.6
+45,Sierra,Nevada/Sierra,17.3,3.9,17500,4000,10.7,3.3
+46,Siskiyou,Del Norte/Lassen/Modoc/Plumas/Siskiyou,12.8,2.4,14900,2800,15.0,2.5
+47,Solano,Solano,11.8,1.4,51500,6100,8.5,1.2
+48,Sonoma,Sonoma,14.4,2.0,70700,9700,8.1,1.2
+49,Stanislaus,Stanislaus,14.4,1.6,78200,8900,13.3,1.7
+50,Sutter,Sutter/Yuba,11.9,2.4,20500,4100,13.7,2.7
+51,Tehama,Colusa/Glenn/Tehama/Trinity,14.3,3.5,17800,4400,16.4,3.6
+52,Trinity,Colusa/Glenn/Tehama/Trinity,13.2,2.7,17800,4400,10.9,2.2
+53,Tulare,Tulare,14.3,3.5,75600,11000,16.4,3.6
+54,Tuolumne,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono/Tuolumne,16.4,2.4,23700,4800,22.7,2.6
+55,Ventura,Ventura,16.3,1.7,136000,14000,8.5,1.1
+56,Yolo,Yolo,20.9,2.5,42100,5100,15.9,2.5
+57,Yuba,Sutter/Yuba,11.9,2.4,20500,4100,13.7,2.7
