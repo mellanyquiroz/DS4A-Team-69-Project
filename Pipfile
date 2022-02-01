@@ -11,6 +11,8 @@ seaborn = "*"
 geopandas = "*"
 jinja2 = "*"
 sklearn = "*"
+statsmodels = "*"
+pingouin = "*"
 
 [dev-packages]
 
