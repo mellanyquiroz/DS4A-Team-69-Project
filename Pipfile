@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+numpy = "*"
+seaborn = "*"
+geopandas = "*"
+jinja2 = "*"
+sklearn = "*"
+statsmodels = "*"
+pingouin = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
